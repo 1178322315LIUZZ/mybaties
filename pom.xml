@@ -9,6 +9,13 @@
         <module>user-consomer</module>
         <module>provider2</module>
         <module>entity</module>
+        <module>rongduan</module>
+        <module>board</module>
+        <module>wangguan</module>
+        <module>config-service</module>
+        <module>config-client</module>
+        <module>sc-config-bus-service</module>
+        <module>sc-config-bus-client</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
